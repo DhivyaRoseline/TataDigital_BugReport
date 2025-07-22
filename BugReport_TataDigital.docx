@@ -1,0 +1,14 @@
+Bug Report: Tata Digital Website
+Bugs Identified:
+1.	Form Submission Error
+
+  Description: The form submission fails with the message: "Unable to submit the form! An error occurred during the form submission. Please try again later.".
+2.	Missing Content in Press Releases
+
+	Description: Press release content is missing for the years 2020 and 2023. The section states "No articles available" for 2020.
+3.	Incorrect Navigation for "Find Us"
+
+	Description: The "Find Us" link navigates incorrectly, leading users to an unintended or wrong destination.
+Priority:
+●	High: Form submission and navigation errors.
+●	Medium: Missing press release content.
